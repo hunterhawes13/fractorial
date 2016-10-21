@@ -6,10 +6,15 @@ return (4 * 3 * 2 * 1)). For the test cases, the range will be between 1 and 18.
 1. Create a variable n to store 1 so we can loop from 1 to the index N multiplying each number by the previous one until we reach our number. 
 
 2. loop will work by multiply each number between 1 and num 
+
 n = 1 * 1 = 1
+
 n = 1 * 2 = 2
+
 n = 2 * 3 = 6
+
 n = 6 * 4 = 24
+
 
 ## Code Example
 
