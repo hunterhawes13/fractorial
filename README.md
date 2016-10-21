@@ -15,6 +15,8 @@ n = 2 * 3 = 6
 
 n = 6 * 4 = 24
 
+3. This works by moving the results of the previous fractorial to be multipled by the next number such as for 4 we do 6 * 4 instead of actually each time doing 4 * 3 * 2 * 1. This provides the same result.
+
 
 ## Code Example
 
