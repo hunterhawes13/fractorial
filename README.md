@@ -8,6 +8,8 @@ return (4 * 3 * 2 * 1)). For the test cases, the range will be between 1 and 18.
 
 2. loop will work by multiply each number between 1 and num 
 
+3. This works by moving the results of the previous fractorial to be multipled by the next number such as for 4 we do 6 * 4 instead of actually each time doing 4 * 3 * 2 * 1. This provides the same result.
+
 ```
 n = 1 * 1 = 1
 
@@ -17,9 +19,6 @@ n = 2 * 3 = 6
 
 n = 6 * 4 = 24
 ```
-
-3. This works by moving the results of the previous fractorial to be multipled by the next number such as for 4 we do 6 * 4 instead of actually each time doing 4 * 3 * 2 * 1. This provides the same result.
-
 
 ## Code Example
 
